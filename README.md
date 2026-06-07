@@ -1,1 +1,2 @@
 # Modeling-Medical-Costs-Using-Demographic-and-Lifestyle-Factors
+Healthcare access in the United States is notorious for its cost exorbitancy. Prices continue to rise sharply each year, with a majority of Americans experiencing extreme difficulty affording treatments, medications, and insurance. This project aims to consider all potential components of medical pricing and identify the factors that most prevalently contribute to this nationally debated issue.
